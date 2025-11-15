@@ -1,0 +1,7 @@
+__pycache__
+lora
+llm_model
+base_model
+.env
+logs
+run_docker.sh

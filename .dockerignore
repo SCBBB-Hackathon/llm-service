@@ -1,0 +1,8 @@
+base_model
+llm_model
+logs
+lora
+run_docker.sh
+run_server.sh 
+.gitignore
+.env
