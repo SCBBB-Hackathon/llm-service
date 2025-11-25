@@ -8,9 +8,9 @@ vllm을 이용하여 기존 transformer라이브러리보다 더 빠른 속도�
 ## WorkFlow
 사용자 요청에 따른 동작구조 워크플로우는 다음과 같다.  
 ### 관광지 LLM 요청  
-![img1](https://github.com/SCBBB-Hackathon/llm-service/blob/main/src/data/readme_imgs/qr_llm.png?raw=true)  
+![img1](https://github.com/SCBBB-Hackathon/llm-service/blob/main/readme_imgs/qr_llm.png?raw=true)  
 ### 대중교통 LLM 요청  
-![img2](https://github.com/SCBBB-Hackathon/llm-service/blob/main/src/data/readme_imgs/trans_llm.png?raw=true)  
+![img2](https://github.com/SCBBB-Hackathon/llm-service/blob/main/readme_imgs/trans_llm.png?raw=true)  
 --- 
 
 ## Main Librarys
